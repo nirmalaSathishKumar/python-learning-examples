@@ -1,4 +1,4 @@
-<!-- # Python Learning Examples
+# Python Learning Examples
 
 A collection of executable Python examples covering fundamental concepts from "Python for Everybody" course.
 
@@ -85,4 +85,4 @@ All examples use Python standard library only - no external dependencies require
 - All code is executable and production-ready
 - No comment lines - code is self-explanatory
 - Files are small and focused on single concepts
-- Perfect for GitHub repositories and learning -->
+- Perfect for GitHub repositories and learning
